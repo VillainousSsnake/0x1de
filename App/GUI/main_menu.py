@@ -11,7 +11,7 @@ def main_menu(app):
 
     # Creating root window
     root = ctk.CTk()
-    root.title("HigharcheySDL Main Menu")
+    root.title("0x1de - " + "(PLACEHOLDER:VERSION)" + " - Main Menu")  # TODO: Replace placeholders
     root.geometry("850x525+200+200")
 
     # Defining on_close function
